@@ -1,5 +1,0 @@
-/home/patryk/PO1/lab01/lab01Bibrzycki/build/CMakeFiles/Vector.dir
-/home/patryk/PO1/lab01/lab01Bibrzycki/build/CMakeFiles/run.dir
-/home/patryk/PO1/lab01/lab01Bibrzycki/build/CMakeFiles/check.dir
-/home/patryk/PO1/lab01/lab01Bibrzycki/build/CMakeFiles/edit_cache.dir
-/home/patryk/PO1/lab01/lab01Bibrzycki/build/CMakeFiles/rebuild_cache.dir
